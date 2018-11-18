@@ -47,5 +47,4 @@ public class ParallelTasksApp extends Application {
         System.out.println(Thread.currentThread().getName() + " i=" + i);
         return i;
     }
-
 }
